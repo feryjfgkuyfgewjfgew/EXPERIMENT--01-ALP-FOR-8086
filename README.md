@@ -96,9 +96,11 @@ ret
 
 
 ## Output  
+![Alt text](<Screenshot (17).png>)
 
+  
 
- 
+![](<Screenshot (20).png>)
 ## Subtraction   of 8 bit numbers  ALP 
 
 org 100h
@@ -109,27 +111,23 @@ mov [1233h],ax;
 ret
  
 ## Output  
-![Alt text](<Screenshot (17).png>)
 
-![](<Screenshot (17)-1.png>)
-
-![](<Screenshot (20).png>)
 
 ![Alt text](<Screenshot (24).png>)
 ## Multiplication alp 
 
 name "Multiplication"
 org 100h
-MOV AL,04H;
-MOV BL,03H;
+MOV AL,0c423H;
+MOV BL,0a234H;
 MUL BL;
-MOV CL,AL;
-MOV AL,00H;
-HLT;
+ret
  ## Output  
+![Screenshot (25)](https://github.com/feryjfgkuyfgewjfgew/EXPERIMENT--01-ALP-FOR-8086/assets/150319377/ca791a34-a017-424d-89c9-a6df2e449645)
 
- ![![Alt text](<Screenshot 2024-02-29 124329.png>)](<Screenshot 2024-02-29 124412.png>)
 
+
+![Screenshot 2024-02-29 124329](https://github.com/feryjfgkuyfgewjfgew/EXPERIMENT--01-ALP-FOR-8086/assets/150319377/3df3dc12-4a95-4974-8afd-5e29ba50fbde)
 
 
 
