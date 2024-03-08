@@ -170,8 +170,10 @@ MOV [SI+6],AX;
 
 ret
 ## out put
+```
+![Screenshot 2024-03-08 203441](https://github.com/feryjfgkuyfgewjfgew/EXPERIMENT--01-ALP-FOR-8086/assets/150319377/2b0afe06-8145-4144-b103-b4de8577dcf8)
 
-![Screenshot 2024-03-08 145003](https://github.com/feryjfgkuyfgewjfgew/EXPERIMENT--01-ALP-FOR-8086/assets/150319377/f7895d36-626b-41cd-aa00-dd74764e4a41)
+![Screenshot 2024-03-08 203453](https://github.com/feryjfgkuyfgewjfgew/EXPERIMENT--01-ALP-FOR-8086/assets/150319377/c4c018bd-3f68-47b0-8da6-57b555eee448)
 
 
 ## Result :
