@@ -186,7 +186,9 @@ MOV [SI+6],AX;
 
 ret
 ## output
-![image](https://github.com/feryjfgkuyfgewjfgew/EXPERIMENT--01-ALP-FOR-8086/assets/150319377/21ead0a3-16de-44f0-a4e8-295ad860d2d6)
+
+![Screenshot 2024-03-08 145003](https://github.com/feryjfgkuyfgewjfgew/EXPERIMENT--01-ALP-FOR-8086/assets/150319377/6dcb864a-732c-4af2-8424-f28b71f36e20)
+
 
 ## Result :
  
