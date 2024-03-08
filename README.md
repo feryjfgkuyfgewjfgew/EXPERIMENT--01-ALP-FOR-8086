@@ -149,7 +149,7 @@ HLT;
 ![Alt text](image-1.png)
 
 ## logical expression
-
+```
 org 100H
 MOV SI,0532H;
 MOV AX,0A32H;
@@ -167,7 +167,7 @@ MOV [SI+4],AX;
 MOV AX,0A32H;
 NOT AX;
 MOV [SI+6],AX;
-
+```
 ret
 ## out put
 ```
