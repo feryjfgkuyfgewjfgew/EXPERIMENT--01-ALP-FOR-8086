@@ -146,6 +146,45 @@ HLT;
 
 ![Alt text](image-1.png)
 
+## logical expression
+
+org 100H
+
+MOV SI,0532H;
+
+MOV AX,0A32H;
+
+MOV BX,0B13H;
+
+OR AX,BX;
+
+MOV [SI],AX;
+
+MOV AX,0A32H;
+
+MOV BX,0B13H;
+
+AND AX,BX;
+
+MOV [SI+2],AX;
+
+MOV AX,0A32H;
+
+MOV BX,0B13H;
+
+XOR AX,BX;
+
+MOV [SI+4],AX;
+
+MOV AX,0A32H;
+
+NOT AX;
+
+MOV [SI+6],AX;
+
+ret
+## output
+![image](https://github.com/feryjfgkuyfgewjfgew/EXPERIMENT--01-ALP-FOR-8086/assets/150319377/21ead0a3-16de-44f0-a4e8-295ad860d2d6)
 
 ## Result :
  
