@@ -151,43 +151,27 @@ HLT;
 ## logical expression
 
 org 100H
-
 MOV SI,0532H;
-
 MOV AX,0A32H;
-
 MOV BX,0B13H;
-
 OR AX,BX;
-
 MOV [SI],AX;
-
 MOV AX,0A32H;
-
 MOV BX,0B13H;
-
 AND AX,BX;
-
 MOV [SI+2],AX;
-
 MOV AX,0A32H;
-
 MOV BX,0B13H;
-
 XOR AX,BX;
-
 MOV [SI+4],AX;
-
 MOV AX,0A32H;
-
 NOT AX;
-
 MOV [SI+6],AX;
 
 ret
-## output
+## out put
 
-![Screenshot 2024-03-08 145003](https://github.com/feryjfgkuyfgewjfgew/EXPERIMENT--01-ALP-FOR-8086/assets/150319377/6dcb864a-732c-4af2-8424-f28b71f36e20)
+![Screenshot 2024-03-08 145003](https://github.com/feryjfgkuyfgewjfgew/EXPERIMENT--01-ALP-FOR-8086/assets/150319377/f7895d36-626b-41cd-aa00-dd74764e4a41)
 
 
 ## Result :
