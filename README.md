@@ -1,9 +1,8 @@
-# EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
 
+Name :NARESH.R
+Roll no :212223240104
 
+# EXPERIMENT 01 ALP FOR 8086
 
 
 
